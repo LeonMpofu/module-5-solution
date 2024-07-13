@@ -1,0 +1,59 @@
+/* Set the navigation bar to indigo */
+#header-nav {
+  background-color: indigo;
+  border-color: indigo;
+}
+
+/* Change the navigation bar links color to white */
+#header-nav .navbar-nav > li > a {
+  color: white;
+}
+
+/* Change the navbar brand color */
+.navbar-brand a {
+  color: white;
+}
+
+/* Change the footer background color */
+footer.panel-footer {
+  background-color: #f8f9fa; /* Light grey background */
+  color: #333; /* Dark text */
+}
+
+/* Change the section colors in the footer */
+footer.panel-footer section {
+  color: #555;
+}
+
+/* Add additional custom colors for other elements */
+#main-content {
+  background-color: #f1f1f1; /* Light grey background */
+  color: #333; /* Dark text */
+}
+
+/* Customize button colors */
+.btn {
+  background-color: indigo;
+  color: white;
+  border: none;
+}
+
+.btn:hover {
+  background-color: #4b0082; /* Darker indigo */
+}
+
+/* Customize headings */
+h1, h2, h3, h4, h5, h6 {
+  color: indigo;
+}
+
+/* Customize paragraph text */
+p {
+  color: #333;
+}
+
+/* Add custom styles for the testimonials section */
+#testimonials p {
+  color: darkorange;
+  font-style: italic;
+}
